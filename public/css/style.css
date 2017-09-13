@@ -575,3 +575,12 @@ cursor: pointer;
 display: none;
 }
 
+ul {
+	list-style-type: none;
+	margin:3000;
+	padding: 3000;
+}
+
+#htmlwidget-40059de066a731adba16 {
+	padding: 700px;
+}

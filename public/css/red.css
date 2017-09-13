@@ -1,0 +1,50 @@
+
+
+#htmlwidget-40059de066a731adba16 {
+	position: relative;
+	left: 600px;
+	bottom: 550px;
+}
+
+#htmlwidget-ca7964b9024618bbb104 {
+	position: relative;
+	left: 600px;
+	bottom: 200px;
+}
+
+p {
+	color: grey;
+	font-size: 16px;
+	width: 300px;
+	padding-left: 30px;
+	text-indent: 20px;
+	padding-top: 20px;
+
+
+
+}
+
+body {
+	background-color: white;
+}
+
+
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+     position: relative;
+     left:350px;
+     
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+
+
+}
+
+h1 {
+	padding-left: 30px;
+}
