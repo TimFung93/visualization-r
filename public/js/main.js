@@ -3,7 +3,6 @@ var sigInst, canvas, $GP
 //Load configuration file
 var config={};
 
-
 //For debug allow a config=file.json parameter to specify the config
 function GetQueryStringParams(sParam,defaultVal) {
     var sPageURL = ""+window.location;//.search.substring(1);//This might be causing error in Safari?
